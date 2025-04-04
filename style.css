@@ -23,6 +23,13 @@ h1, h2 {
   text-decoration-style: wavy
 }
 
+body {
+    background-color: rgb(253, 251, 224);
+    max-width: 98%;
+    margin: 0 auto;
+    padding: 0%;
+  }
+
 header {
     width: 100%;
     border: 20%;
@@ -64,11 +71,10 @@ header {
     color: rgb(71, 184, 6);
   }
 
-  body {
-    background-color: rgb(253, 251, 224);
-    max-width: 98%;
-    margin: 0 auto;
-    padding: 0%;
+  button {
+    color:rgb(4, 54, 224);
+    background-color: rgb(250, 205, 7);
+    border-color: rgb(4, 54, 224);
   }
 
   section {
