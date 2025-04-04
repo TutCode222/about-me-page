@@ -39,6 +39,15 @@ header {
 
   nav {
     text-align: center;
+    font-weight: bold;
+  }
+
+  nav {
+    color: rgb(24, 54, 224);
+  }
+
+  nav :hover {
+    color: rgb(71, 184, 6);
   }
 
   p {
