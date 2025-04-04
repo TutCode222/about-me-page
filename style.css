@@ -47,6 +47,7 @@ header {
 
   body {
     background-color: rgb(253, 251, 224);
-    max-width: 100%;
+    max-width: 98%;
     margin: 0 auto;
+    padding: 1%;
   }
