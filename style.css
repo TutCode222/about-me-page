@@ -43,5 +43,8 @@ header {
 
   .link:hover {
     color: rgb(71, 184, 6);
-    
+  }
+
+  body {
+    background-color: rgb(253, 251, 224);
   }
