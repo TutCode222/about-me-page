@@ -17,7 +17,7 @@ h1 {
     letter-spacing: 2px;
   }
 
-h1, h2 {
+h1, h2, {
     text-decoration-line: underline;
   text-decoration-style: wavy
 }
@@ -38,4 +38,5 @@ header {
 
   p {
     line-height: 1.6;
+    font-size: 1.1rem;
   }
