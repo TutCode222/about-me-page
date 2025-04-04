@@ -39,10 +39,14 @@ header {
 
   nav {
     text-align: center;
-    color: darkorange;
   }
 
   p {
+    line-height: 1.6;
+    font-size: 1.1rem;
+  }
+
+  ol, ul {
     line-height: 1.6;
     font-size: 1.1rem;
   }
