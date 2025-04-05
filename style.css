@@ -49,11 +49,21 @@ header {
   nav {
     text-align: center;
     font-weight: bold;
+    font-size: larger;
   }
 
-  nav {
-    color: rgb(24, 54, 224);
+  .flex-container {
+    display: flex;
+    gap: 50px;
+    background-color: rgb(250, 205, 7);
   }
+
+  .flex-container > nav {
+    margin: 0;
+    border: 0;
+    padding: 0;
+  }
+
 
   nav :hover {
     color: rgb(71, 184, 6);
@@ -70,9 +80,13 @@ header {
     border-style: double;
   }
 
+
   ol, ul {
     border-color: rgb(4, 54, 224);
     border-width: .5cap;
+    width: 60%;
+  }
+
 
   .link:hover {
     color: rgb(71, 184, 6);
